@@ -1,1 +1,2 @@
 Remote to local
+This is a simple script that allows you to copy files from a remote server to your local machine using SCP (Secure Copy Protocol).
